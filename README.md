@@ -6,7 +6,7 @@ And I also like to write angry commit messages.
 ## Current focus.
 Rewriting [my website](https://github.com/pprmint/pprmint.art-Next) with [Next.js](https://nextjs.org), [next-intl](https://github.com/amannn/next-intl) and [MUI](https://mui.com/), hosting it on [Vercel](https://vercel.com).
 
-[next.pprmint.art](https://pprmint.art)
+[pprmint.art](https://pprmint.art)
 
 ## Stats.
 <a href="https://github.com/anuraghazra/github-readme-stats">
