@@ -10,4 +10,4 @@ Building [my website](https://github.com/pprmint/pprmint.art-Next) with [Next.js
 
 I may potentially turn [ppr.one](https://ppr.one/) in a link shortener some day.
 
-Also working on two other websites that are not yet made public. But they look cool.
+I'm also working on two other websites for my friends, but they're not ready for the public yet. If you want to look at broken and unfinished websites, go to my own.
