@@ -13,3 +13,5 @@ I design fonts, edit videos and create 2D and 3D graphics and animations. I also
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 I use Arch btw.
+
+<sub><sub>As a note: I don’t have the time to maintain all my projects all the time, and I tend to work on a project almost exclusively until I reach a certain milestone or finish whatever it is I wanted to do. So please forgive me if certain projects you use are not actively being worked on or updated (unless there's a major issue).</sub></sub>
