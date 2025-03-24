@@ -12,19 +12,19 @@
 	<defs>
 		<linearGradient id="a" x1="0" x2="1" y1="0" y2="0"
 			gradientTransform="rotate(-90 157.263 -116.455)scale(22.2227)" gradientUnits="userSpaceOnUse">
-			<stop offset="0" style="stop-color:#00b85c;stop-opacity:1" />
-			<stop offset="1" style="stop-color:#008f47;stop-opacity:1" />
+			<stop offset="0" style="stop-color:#3da447;stop-opacity:1" />
+			<stop offset="1" style="stop-color:#32863a;stop-opacity:1" />
 		</linearGradient>
 		<linearGradient id="b" x1="0" x2="1" y1="0" y2="0"
 			gradientTransform="rotate(-90 145.683 -104.875)scale(22.2227)" gradientUnits="userSpaceOnUse">
-			<stop offset="0" style="stop-color:#00b85c;stop-opacity:1" />
-			<stop offset="1" style="stop-color:#0c6;stop-opacity:1" />
+			<stop offset="0" style="stop-color:#3da447;stop-opacity:1" />
+			<stop offset="1" style="stop-color:#44bb55;stop-opacity:1" />
 		</linearGradient>
 	</defs>
 	<style>
 		.contrastFill { fill: #111; }
 		@media (prefers-color-scheme: dark) {
-		.contrastFill { fill: #eee; }
+		.contrastFill { fill: #fff; }
 		}
 	</style>
 </svg>
